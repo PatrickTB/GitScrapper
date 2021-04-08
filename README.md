@@ -16,5 +16,5 @@ exemple
   "url": "https://github.com/PatrickTB/GitScrapper"
 }
 
-My Cloud Provider is Heroku : https://patrickgitscrapper.herokuapp.com.
+My Cloud Provider is Heroku : https://patrickgitscrapper.herokuapp.com/swagger
 
