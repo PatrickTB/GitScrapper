@@ -10,7 +10,7 @@ Press try in Swagger aplication and past a url github in
   "url": "string"
 }
 
-exemple
+Exemple:
 
 {
   "url": "https://github.com/PatrickTB/GitScrapper"
